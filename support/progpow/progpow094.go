@@ -7,8 +7,8 @@ package progpow
 import (
 	"encoding/binary"
 
-	"github.com/snipa22/powkit/support/common/convutil"
-	"github.com/snipa22/powkit/support/crypto"
+	"github.com/Jagtech-Services/powkit/support/common/convutil"
+	"github.com/Jagtech-Services/powkit/support/crypto"
 )
 
 var progpow094Cfg = &Config{

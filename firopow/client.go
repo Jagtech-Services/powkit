@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/snipa22/powkit/support/common"
-	"github.com/snipa22/powkit/support/dag"
+	"github.com/Jagtech-Services/powkit/support/common"
+	"github.com/Jagtech-Services/powkit/support/dag"
 )
 
 type Client struct {

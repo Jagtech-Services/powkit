@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/snipa22/powkit/support/common/bitutil"
-	"github.com/snipa22/powkit/support/crypto"
+	"github.com/Jagtech-Services/powkit/support/common/bitutil"
+	"github.com/Jagtech-Services/powkit/support/crypto"
 )
 
 // generateCache creates a verification cache of a given size for an input seed.

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/snipa22/powkit/support/crypto"
+	"github.com/Jagtech-Services/powkit/support/crypto"
 )
 
 const (

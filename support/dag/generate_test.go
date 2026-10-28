@@ -21,10 +21,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/snipa22/powkit/support/common"
-	"github.com/snipa22/powkit/support/common/convutil"
-	"github.com/snipa22/powkit/support/common/testutil"
-	"github.com/snipa22/powkit/support/crypto"
+	"github.com/Jagtech-Services/powkit/support/common"
+	"github.com/Jagtech-Services/powkit/support/common/convutil"
+	"github.com/Jagtech-Services/powkit/support/common/testutil"
+	"github.com/Jagtech-Services/powkit/support/crypto"
 )
 
 func TestCacheGeneration(t *testing.T) {

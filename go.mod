@@ -1,4 +1,4 @@
-module github.com/snipa22/powkit
+module github.com/Jagtech-Services/powkit
 
 go 1.17
 

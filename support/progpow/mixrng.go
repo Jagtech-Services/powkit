@@ -5,7 +5,7 @@
 package progpow
 
 import (
-	"github.com/snipa22/powkit/support/crypto"
+	"github.com/Jagtech-Services/powkit/support/crypto"
 )
 
 type mixRngState struct {

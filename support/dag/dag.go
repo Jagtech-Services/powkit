@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/snipa22/powkit/support/crypto"
+	"github.com/Jagtech-Services/powkit/support/crypto"
 )
 
 type DAG struct {
