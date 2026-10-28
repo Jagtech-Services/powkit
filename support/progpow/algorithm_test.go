@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/snipa22/powkit/support/common/testutil"
-	"github.com/snipa22/powkit/support/dag"
+	"github.com/Jagtech-Services/powkit/support/common/testutil"
+	"github.com/Jagtech-Services/powkit/support/dag"
 )
 
 func compareUint32Array(a, b []uint32) bool {

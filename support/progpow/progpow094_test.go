@@ -8,9 +8,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/snipa22/powkit/support/common"
-	"github.com/snipa22/powkit/support/common/testutil"
-	"github.com/snipa22/powkit/support/dag"
+	"github.com/Jagtech-Services/powkit/support/common"
+	"github.com/Jagtech-Services/powkit/support/common/testutil"
+	"github.com/Jagtech-Services/powkit/support/dag"
 )
 
 func TestProgpow094(t *testing.T) {

@@ -7,9 +7,9 @@ package kawpow
 import (
 	"encoding/binary"
 
-	"github.com/snipa22/powkit/support/common/convutil"
-	"github.com/snipa22/powkit/support/crypto"
-	"github.com/snipa22/powkit/support/progpow"
+	"github.com/Jagtech-Services/powkit/support/common/convutil"
+	"github.com/Jagtech-Services/powkit/support/crypto"
+	"github.com/Jagtech-Services/powkit/support/progpow"
 )
 
 var ravencoinKawpow [15]uint32 = [15]uint32{

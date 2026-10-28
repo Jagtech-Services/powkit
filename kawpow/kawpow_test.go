@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/snipa22/powkit/support/common/testutil"
+	"github.com/Jagtech-Services/powkit/support/common/testutil"
 )
 
 func TestComputeRavencoin(t *testing.T) {
